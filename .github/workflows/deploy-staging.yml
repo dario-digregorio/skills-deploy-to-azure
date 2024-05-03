@@ -5,6 +5,7 @@ on:
     types: [labeled]
 permissions:
   contents: read
+  packages: write
   pages: write
   id-token: write
 env:
